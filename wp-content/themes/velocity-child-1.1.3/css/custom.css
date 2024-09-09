@@ -1,0 +1,113 @@
+.fl-contact-form textarea,
+.fl-contact-form input[type="text"],
+.fl-contact-form input[type="tel"],
+.fl-contact-form input[type="email"] {
+  display: inline-block;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  font-size: 13px;
+  color: #373737;
+  border-radius: 3px;
+}
+@media only screen and (min-width: 768px) {
+  header .fl-menu li a {
+    transition: all 0.3s;
+  }
+  header .fl-menu ul:not(.sub-menu) li {
+    transition: all 0.3s;
+    border-bottom: 2px solid transparent;
+  }
+  header .fl-menu ul:not(.sub-menu) li.current-menu-item {
+    border-bottom: 2px solid #000;
+  }
+  header .fl-menu ul:not(.sub-menu) li:hover {
+    border-bottom: 2px solid #000;
+  }
+  header .fl-menu .sub-menu li {
+    border-color: transparent !important;
+  }
+}
+.vd-gtranslate .gtranslate_wrapper select {
+  padding: 10px 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  background: #d5d6db;
+}
+.scale-hover {
+  transition: all 0.5s;
+}
+.scale-hover:hover {
+  transform: scale(1.1);
+}
+@media only screen and (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+  .slider-home .fl-slide-content {
+    padding: 0 !important;
+  }
+}
+.wpcf7 {
+  max-width: max-content !important;
+}
+.btn-pemesanan {
+  padding: 16px 30px !important;
+  border-radius: 20px !important;
+  font-weight: bold;
+  text-shadow: 0 4px 4px rgba(191, 140, 26, 0.5);
+}
+
+.slider-home .fl-builder-shape-layer {
+  z-index: 2;
+}
+
+.velocity-product-loop {
+  .card-loop {
+    font-size: 14px;
+    border-radius: 20px;
+    padding-top: 20px;
+    background-image: url("https://panglimaroqiiqu-group.co.id/wp-content/uploads/2024/06/bg-card-produk.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+    transition: all 0.3s;
+    border: 1px solid #e6e6e6;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  .card-loop:hover {
+    transform: scale(1.1);
+  }
+  .row {
+    min-height: 150px;
+    align-items: flex-end;
+  }
+  .col-6.ps-4 {
+    padding-bottom: 40px;
+  }
+  .fl-post-title {
+    font-size: 18px;
+    font-weight: bold;
+    opacity: 0.8;
+    margin: 0;
+    padding: 0 0 5px;
+  }
+  .cat-post {
+    opacity: 0.5;
+  }
+  .lihat-produk {
+    border-radius: 20px;
+    padding: 16px;
+  }
+  .fl-post-image img {
+    height: 120px;
+    object-fit: cover;
+  }
+}
+.uabb-tabs-navnrecp2y4bkf8 p {
+  margin: 0 !important;
+}

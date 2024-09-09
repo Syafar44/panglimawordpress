@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+
+        <title>Selamat Datang! - Rumah Hosting Web Hosting Murah Indonesia</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link href="https://www.rumahhosting.com/assets/css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://www.rumahhosting.com/assets/css/line-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://www.rumahhosting.com/assets/css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://www.rumahhosting.com/assets/css/lightbox.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://www.rumahhosting.com/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="https://www.rumahhosting.com/assets/css/theme-blues.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
+        <script src="https://www.rumahhosting.com/assets/js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+                <div class="main-container">
+                        <section class="no-pad error-page bg-primary fullscreen-element">
+                                <div class="container align-vertical">
+                                        <div class="row">
+                                                <div class="col-sm-12 text-center">
+                                                        <img src="https://client.rumahhosting.com/images/logo-w.png">
+                                                        <h1 class="jumbo">Selamat Datang!</h1>
+                                                        <h1><strong>Account baru anda sudah aktif!</strong><br>Hapus file index.html jika seluruh data sudah di upload</h1>
+
+                                                </div>
+                                        </div><!--end of row-->
+                                </div><!--end of container-->
+                        </section>
+                </div>
+                <div class="footer-container"></div>
+
+                <script src="https://www.rumahhosting.com/assets/js/jquery.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/jquery.plugin.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/bootstrap.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/jquery.flexslider-min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/smooth-scroll.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/skrollr.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/spectragram.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/scrollReveal.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/isotope.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/twitterFetcher_v10_min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/lightbox.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/jquery.countdown.min.js"></script>
+        <script src="https://www.rumahhosting.com/assets/js/scripts.js"></script>
+    </body>
+</html>
